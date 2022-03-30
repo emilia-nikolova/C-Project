@@ -1,5 +1,5 @@
-# C-Project
-A C++ coruse project
+# C++ Project
+A C++ course project
 
 The purpose of this project is to create custom made classes for String and List instead of the ones defined in C++ libraries.  
 This solution contains three header files: MyString.h, Node.h, MyList.h
@@ -37,5 +37,5 @@ Class MyList (MyList.h)
   -	void printList() – prints the ids of all elements in the list
 
 Main.cpp
-  -	void FileRead(char* file_name) – It reads data from a csv file and displays it on the screen
-  -	void FileWrite(char* file_name) – Writes data in a txt file
+  -	void FileRead(char* file_name) – It reads data from a csv file (data-fields.csv) and displays it on the screen
+  -	void FileWrite(char* file_name) – Writes data in a csv file (output_data.csv)
