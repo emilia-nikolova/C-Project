@@ -2,7 +2,7 @@
 A C++ course project
 
 The purpose of this project is to create custom made classes for String and List instead of the ones defined in C++ libraries.  
-This solution contains three header files: MyString.h, Node.h, MyList.h
+This solution contains three header files: MyString.h, Node.h, MyList.h.
 All three classes contain the following methods: default constructor, constructor with a parameter and destructor.
 
 Note:  To see more clearly how the individual methods work, one should better comment some of the other methods in Main.cpp while a single method is tested.
